@@ -1,0 +1,23 @@
+https://otc-api.bitderiv.com/v1/data/trade-market?
+coinId=2&currency=11&tradeType=buy&currPage=1&payMethod=28&acceptOrder=-1&country=&blockType=general&online=1&range=0&amount=&onlyTradable=false
+
+coinId: 2 USDT 1 BTC
+currency: 11
+tradeType: sell КУПИТЬ buy ПРОДАТЬ
+currPage: 1
+payMethod: 28   тин     27 втб  29  сбер
+acceptOrder: 0
+country:
+blockType: general
+online: 1
+range: 0
+amount:
+onlyTradable: false
+
+GetBinance(self.crypto, "RUB", "Tinkoff", "BUY").get_rate(),
+
+
+rangeAll = '{0}!A1:Z'.format( sheetName )
+body = {}
+resultClear = service.spreadsheets( ).values( ).clear( spreadsheetId=spreadsheet_id, range=rangeAll,
+                                                       body=body ).execute( )

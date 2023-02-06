@@ -1,0 +1,455 @@
+{
+  "total": 41,
+  "data": [
+    {
+      "id": 577737,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.44",
+      "limitCurrency": {
+        "min": "3000",
+        "max": "17242.67",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "50.47106325",
+        "max": "290.08535621",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "StarBtc",
+      "ownerLastActivity": 1656233518479,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 557535,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.46",
+      "limitCurrency": {
+        "min": "5000",
+        "max": "101000",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "84.09014463",
+        "max": "1698.62092162",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "CaptainDaringOlen",
+      "ownerLastActivity": 1656234456929,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 576828,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.47",
+      "limitCurrency": {
+        "min": "1000",
+        "max": "20000",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "16.81520094",
+        "max": "336.30401883",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "HighGustavoTheFifth",
+      "ownerLastActivity": 1656233085697,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 568134,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.48",
+      "limitCurrency": {
+        "min": "5000",
+        "max": "24150.77",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "84.06186953",
+        "max": "406.03180706",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "amad0_fuentes",
+      "ownerLastActivity": 1656228140738,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 574718,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.49",
+      "limitCurrency": {
+        "min": "2000",
+        "max": "37897.76",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "33.61909564",
+        "max": "637.04434816",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "GreenTradeSwap",
+      "ownerLastActivity": 1656234457049,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 573319,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.5",
+      "limitCurrency": {
+        "min": "1000",
+        "max": "14773.96",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "16.80672268",
+        "max": "248.30190685",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "FastTrust",
+      "ownerLastActivity": 1656234338366,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 580005,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.5",
+      "limitCurrency": {
+        "min": "1",
+        "max": "704.05",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "0.01680672",
+        "max": "11.83283582",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "Denisoye",
+      "ownerLastActivity": 1656171635935,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 475450,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.5",
+      "limitCurrency": {
+        "min": "2500",
+        "max": "2850.44",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "42.01680672",
+        "max": "47.90665638",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "easy_BTC_RUB",
+      "ownerLastActivity": 1656227095393,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 418181,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.5",
+      "limitCurrency": {
+        "min": "500",
+        "max": "29537.92",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "8.40336134",
+        "max": "496.43574877",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "R2_CryptoTrade",
+      "ownerLastActivity": 1656234403393,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 577798,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.5",
+      "limitCurrency": {
+        "min": "1000",
+        "max": "16093.69",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "16.80672268",
+        "max": "270.48233945",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "CryptoWise",
+      "ownerLastActivity": 1656233785729,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 495225,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.6",
+      "limitCurrency": {
+        "min": "1000",
+        "max": "7982.19",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "16.77852348",
+        "max": "133.92941224",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "mrHankey",
+      "ownerLastActivity": 1656227939011,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 571688,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.9",
+      "limitCurrency": {
+        "min": "3000",
+        "max": "19606.22",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "50.08347245",
+        "max": "327.31588334",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "Meatcoach69",
+      "ownerLastActivity": 1656232217567,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 579120,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "59.93",
+      "limitCurrency": {
+        "min": "10000",
+        "max": "114364.72",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "166.86133822",
+        "max": "1908.30506305",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "lovenalogi",
+      "ownerLastActivity": 1656185296823,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 528979,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "60",
+      "limitCurrency": {
+        "min": "10000",
+        "max": "16686.86",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "166.66666666",
+        "max": "278.11443788",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "OrtusAurum",
+      "ownerLastActivity": 1656008584779,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    },
+    {
+      "id": 533636,
+      "type": "selling",
+      "cryptocurrency": "USDT",
+      "currency": "RUB",
+      "rate": "60",
+      "limitCurrency": {
+        "min": "1000",
+        "max": "3869.21",
+        "realMax": null
+      },
+      "limitCryptocurrency": {
+        "min": "16.66666666",
+        "max": "64.48698778",
+        "realMax": null
+      },
+      "paymethod": {
+        "id": 443,
+        "name": "Тинькофф"
+      },
+      "paymethodId": 443,
+      "owner": "Vitruster_btc",
+      "ownerLastActivity": 1656197329481,
+      "isOwnerVerificated": true,
+      "safeMode": true,
+      "ownerTrusted": false,
+      "ownerBalance": null,
+      "available": null,
+      "unactiveReason": null
+    }
+  ]
+}
